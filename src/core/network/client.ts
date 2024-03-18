@@ -5,7 +5,7 @@ import { stat, realpath } from 'fs/promises'
 import * as http from 'http'
 import * as https from 'https'
 import * as path from 'path'
-// import fetch, { RequestInit } from 'node-fetch'
+
 import { hasProp, hasPropType } from '../helpers/check'
 import { InputFile, Opts, Telegram } from '../types/typegram'
 import { AbortSignal } from 'abort-controller'
