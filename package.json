@@ -1,9 +1,9 @@
 {
   "name": "telegraf",
-  "version": "4.16.3",
+  "version": "1.0.0",
   "description": "Modern Telegram Bot Framework",
   "license": "MIT",
-  "author": "The Telegraf Contributors",
+  "author": "Nitesh Singh",
   "homepage": "https://telegraf.js.org",
   "repository": {
     "type": "git",
